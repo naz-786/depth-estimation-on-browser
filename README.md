@@ -1,6 +1,6 @@
 # Mobile  DEPTH ESTIMATION
 
-Mobile Monocular Depth Estimation
+Mobile  Depth Estimation
 
 MCA 2nd semester AI mini project
 
